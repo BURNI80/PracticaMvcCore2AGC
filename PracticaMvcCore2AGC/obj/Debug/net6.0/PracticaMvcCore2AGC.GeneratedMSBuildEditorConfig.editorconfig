@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PracticaMvcCore2AGC
+build_property.RootNamespace = PracticaMvcCore2AGC
+build_property.ProjectDir = c:\Users\Alumnos MCSD Mañana\Desktop\Visual\PracticaMvcCore2AGC\PracticaMvcCore2AGC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Alumnos MCSD Mañana\Desktop\Visual\PracticaMvcCore2AGC\PracticaMvcCore2AGC
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Home/Carrito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJyaXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Home/Comprar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wcmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Home/Libro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaWJyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Home/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJmaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Managed/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlZFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Shared/Components/Carrito/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2Fycml0b1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Shared/Components/MenuGeneros/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUdlbmVyb3NcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Alumnos MCSD Mañana/Desktop/Visual/PracticaMvcCore2AGC/PracticaMvcCore2AGC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7i2ihvo5wu

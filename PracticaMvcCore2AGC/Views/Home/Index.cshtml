@@ -1,0 +1,16 @@
+﻿@model List<Libro>
+
+<h1>Libros</h1>
+<a asp-action="Index" asp-controller="Home" asp-route-pos="@ViewData["ANTERIOR"]">Anterior</a>
+<a asp-action="Index" asp-controller="Home" asp-route-pos="@ViewData["SIGUIENTE"]">Sguiente</a>
+
+@foreach(Libro l in Model){
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="~/images/@l.Portada" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">@l.Titulo</h5>
+            <p class="card-text">@l.Autor</p>
+            <a asp-action="Libro" asp-controller="Home" asp-route-id="@l.IdLibro"  class="btn btn-primary">Detalles</a>
+        </div>
+    </div>
+}

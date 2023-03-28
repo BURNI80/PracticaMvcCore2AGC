@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PracticaMvcCore2AGC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PracticaMvcCore2AGC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\14 de julio.jpg",
+      "PackagePath": "staticwebassets\\images\\14 de julio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Amor a primera vista, llama al oculista.jpg",
+      "PackagePath": "staticwebassets\\images\\Amor a primera vista, llama al oculista.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\April, Adam y la trayectoria de los planetas.jpg",
+      "PackagePath": "staticwebassets\\images\\April, Adam y la trayectoria de los planetas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Bilbao y San Sebastian De cerca.jpg",
+      "PackagePath": "staticwebassets\\images\\Bilbao y San Sebastian De cerca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Camboya.jpg",
+      "PackagePath": "staticwebassets\\images\\Camboya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Cariño, cuánto te odio.jpg",
+      "PackagePath": "staticwebassets\\images\\Cariño, cuánto te odio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Castigos justificados.jpg",
+      "PackagePath": "staticwebassets\\images\\Castigos justificados.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Colorea y juega con Pocoyó. Disfraces.jpg",
+      "PackagePath": "staticwebassets\\images\\Colorea y juega con Pocoyó. Disfraces.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Cuentos de Lucía, mi pediatra.jpg",
+      "PackagePath": "staticwebassets\\images\\Cuentos de Lucía, mi pediatra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Dubái De cerca.jpg",
+      "PackagePath": "staticwebassets\\images\\Dubái De cerca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\El fin del imperio.jpg",
+      "PackagePath": "staticwebassets\\images\\El fin del imperio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\El laberinto.jpg",
+      "PackagePath": "staticwebassets\\images\\El laberinto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\El mundo que Jones creó.jpg",
+      "PackagePath": "staticwebassets\\images\\El mundo que Jones creó.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\El proyecto de mi vida.jpg",
+      "PackagePath": "staticwebassets\\images\\El proyecto de mi vida.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\El tesoro de Rapa Nui.jpg",
+      "PackagePath": "staticwebassets\\images\\El tesoro de Rapa Nui.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Esto te va a doler.jpg",
+      "PackagePath": "staticwebassets\\images\\Esto te va a doler.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Guárdalo a favoritos  Márcalo como leído  Comparte este libro El mundo que Jones creó.jpg",
+      "PackagePath": "staticwebassets\\images\\Guárdalo a favoritos  Márcalo como leído  Comparte este libro El mundo que Jones creó.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Hay un pirata en internet.jpg",
+      "PackagePath": "staticwebassets\\images\\Hay un pirata en internet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Ibiza y Formentera De cerca.jpg",
+      "PackagePath": "staticwebassets\\images\\Ibiza y Formentera De cerca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Ink 2. Resplandor.jpg",
+      "PackagePath": "staticwebassets\\images\\Ink 2. Resplandor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\La balada de Max y Amelie.jpg",
+      "PackagePath": "staticwebassets\\images\\La balada de Max y Amelie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\La herida.jpg",
+      "PackagePath": "staticwebassets\\images\\La herida.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\La sonrisa de los pájaros.jpg",
+      "PackagePath": "staticwebassets\\images\\La sonrisa de los pájaros.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\LauraSanz.jpg",
+      "PackagePath": "staticwebassets\\images\\LauraSanz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Los Austrias. El dueño del mundo.jpg",
+      "PackagePath": "staticwebassets\\images\\Los Austrias. El dueño del mundo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Luces en el mar.jpg",
+      "PackagePath": "staticwebassets\\images\\Luces en el mar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\LuisGarcía.jpg",
+      "PackagePath": "staticwebassets\\images\\LuisGarcía.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Metro 2035.jpg",
+      "PackagePath": "staticwebassets\\images\\Metro 2035.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Milán De cerca.jpg",
+      "PackagePath": "staticwebassets\\images\\Milán De cerca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Mundo sin dioses 1. Camino a Sognum.jpg",
+      "PackagePath": "staticwebassets\\images\\Mundo sin dioses 1. Camino a Sognum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Munich.jpg",
+      "PackagePath": "staticwebassets\\images\\Munich.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\París De cerca.jpg",
+      "PackagePath": "staticwebassets\\images\\París De cerca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Ponte en mi piel.jpg",
+      "PackagePath": "staticwebassets\\images\\Ponte en mi piel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Sara y las Goleadoras.jpg",
+      "PackagePath": "staticwebassets\\images\\Sara y las Goleadoras.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Siempre te encontraré.jpg",
+      "PackagePath": "staticwebassets\\images\\Siempre te encontraré.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Stars. Estrellas fugaces.jpg",
+      "PackagePath": "staticwebassets\\images\\Stars. Estrellas fugaces.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Territorio Lovecraft.jpg",
+      "PackagePath": "staticwebassets\\images\\Territorio Lovecraft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Tokio de cerca.jpg",
+      "PackagePath": "staticwebassets\\images\\Tokio de cerca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Una estrella en peligro.jpg",
+      "PackagePath": "staticwebassets\\images\\Una estrella en peligro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\With me. Amelia.jpg",
+      "PackagePath": "staticwebassets\\images\\With me. Amelia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\Y colorín colorado... Tú.jpg",
+      "PackagePath": "staticwebassets\\images\\Y colorín colorado... Tú.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\barney.jpg",
+      "PackagePath": "staticwebassets\\images\\barney.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\dustin.png",
+      "PackagePath": "staticwebassets\\images\\dustin.png"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\elañodelosdelfines.jpg",
+      "PackagePath": "staticwebassets\\images\\elañodelosdelfines.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\eltenedor.jpg",
+      "PackagePath": "staticwebassets\\images\\eltenedor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\entrenosotros.jpg",
+      "PackagePath": "staticwebassets\\images\\entrenosotros.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\fuegoysangre.jpg",
+      "PackagePath": "staticwebassets\\images\\fuegoysangre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\hijadelassombras.jpg",
+      "PackagePath": "staticwebassets\\images\\hijadelassombras.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\lamuertedelcomendador.jpg",
+      "PackagePath": "staticwebassets\\images\\lamuertedelcomendador.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\logotipo liburu.png",
+      "PackagePath": "staticwebassets\\images\\logotipo liburu.png"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\loquenuncatecante.JPG",
+      "PackagePath": "staticwebassets\\images\\loquenuncatecante.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\loscrimenesdealicia.jpg",
+      "PackagePath": "staticwebassets\\images\\loscrimenesdealicia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\malditosindromedeestocolmo.jpg",
+      "PackagePath": "staticwebassets\\images\\malditosindromedeestocolmo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\milalmas.jpg",
+      "PackagePath": "staticwebassets\\images\\milalmas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\once.jpg",
+      "PackagePath": "staticwebassets\\images\\once.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\sasa.jpg",
+      "PackagePath": "staticwebassets\\images\\sasa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\usuario.jpg",
+      "PackagePath": "staticwebassets\\images\\usuario.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\images\\yojulia.jpg",
+      "PackagePath": "staticwebassets\\images\\yojulia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alumnos MCSD Mañana\\Desktop\\Visual\\PracticaMvcCore2AGC\\PracticaMvcCore2AGC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PracticaMvcCore2AGC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PracticaMvcCore2AGC.props",
+      "PackagePath": "build\\PracticaMvcCore2AGC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PracticaMvcCore2AGC.props",
+      "PackagePath": "buildMultiTargeting\\PracticaMvcCore2AGC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PracticaMvcCore2AGC.props",
+      "PackagePath": "buildTransitive\\PracticaMvcCore2AGC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

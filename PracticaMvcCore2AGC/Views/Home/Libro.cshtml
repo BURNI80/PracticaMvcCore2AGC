@@ -1,0 +1,13 @@
+﻿@model Libro
+<img src="~/images/@Model.Portada" width="150px" />
+<h1>Titulo: @Model.Titulo</h1>
+<h2>Autor: @Model.Autor</h2>
+<h2>Editorial: @Model.Editorial</h2>
+<h5>Sinopsis:</h5>
+<p>@Model.Resumen</p>
+<form method="post">
+    <input type="text" name="idLibro" value="@Model.IdLibro" hidden />
+    <input type="text" name="titulo" value="@Model.Titulo" hidden />
+    <h2>Precio: @Model.Precio</h2>
+    <button class="btn btn-primary">Comprar</button>
+</form>

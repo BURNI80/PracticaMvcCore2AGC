@@ -1,0 +1,23 @@
+﻿@model List<VistaPedido>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Titulo</td>
+            <td>Nombre</td>
+            <td>Apellidos</td>
+            <td>PrecioFinal</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (VistaPedido v in Model)
+        {
+            <tr>
+                <td>@v.Titulo</td>
+                <td>@v.Nombre</td>
+                <td>@v.Apellidos</td>
+                <td>@v.PrecioFinal</td>
+            </tr>
+        }
+    </tbody>
+</table>
